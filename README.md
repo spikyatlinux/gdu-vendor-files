@@ -19,3 +19,4 @@ Vendor files for compiling *[gdu][gdu-url]*  on my gentoo system
 In this repo you find vendor files for
 
 - gdu-5.29.0
+- gdu-5.30.1
