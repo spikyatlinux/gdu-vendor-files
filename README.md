@@ -22,3 +22,4 @@ In this repo you find vendor files for
 - gdu-5.30.1
 - gdu-5.31.0
 - gdu-5.32.0
+- gdu-5.33.0
